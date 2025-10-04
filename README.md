@@ -3,7 +3,7 @@
 - 🌱 I’m currently deep diving into NLP using deep learning
 
 ### 📊 Most Used Language
-<img src="{https://github-readme-stats.vercel.app/api/top-langs/?username={username}}"
+<img src="{https://github-readme-stats.vercel.app/api/top-langs/?username={himanshu-45naik}}"
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
