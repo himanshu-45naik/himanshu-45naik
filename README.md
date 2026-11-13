@@ -29,7 +29,7 @@ From Feb to Oct 2026 I worked at Upswing, a Pune startup that makes AI booking a
 <p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,ts,fastapi,flask,postgres,mongodb,redis,rabbitmq,docker,sklearn,prometheus,swift&theme=dark&perline=12">
-    <img src="https://skillicons.dev/icons?i=py,ts,fastapi,flask,postgres,mongodb,redis,rabbitmq,docker,sklearn,prometheus,swift&theme=light&perline=12" alt="Python, TypeScript, FastAPI, Flask, PostgreSQL, MongoDB, Redis, RabbitMQ, Docker, scikit-learn, Prometheus, Swift" height="44">
+    <img src="https://skillicons.dev/icons?i=py,ts,fastapi,flask,postgres,mongodb,redis,rabbitmq,docker,sklearn,prometheus,swift&theme=light&perline=12" alt="Python, TypeScript, FastAPI, Flask, PostgreSQL, MongoDB, Redis, RabbitMQ, Docker, scikit-learn, Prometheus, Swift">
   </picture>
 </p>
 
