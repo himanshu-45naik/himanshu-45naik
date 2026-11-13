@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0d1117,100:1f6feb&text=Himanshu%20Naik&fontColor=ffffff&fontSize=44&fontAlignY=36&desc=Backend%20%26%20AI%20engineer%20%C2%B7%20Pune,%20India&descSize=16&descAlignY=56&animation=fadeIn" alt="Himanshu Naik, backend and AI engineer, Pune, India" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0d1117,100:1f6feb&text=Himanshu%20Naik&fontColor=ffffff&fontSize=44&fontAlignY=36&desc=Backend%20and%20AI%20engineer%20%C2%B7%20Pune,%20India&descSize=16&descAlignY=56&animation=fadeIn" alt="Himanshu Naik, backend and AI engineer, Pune, India" width="100%">
 </p>
 
 ## Hi, I'm Himanshu
