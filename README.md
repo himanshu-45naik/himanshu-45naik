@@ -1,19 +1,35 @@
-- 👋 Hi, I’m Himanshu Naik
-- 👀 I’m interested in Machine learning,Neural networks and NLP 
-- 🌱 I’m currently deep diving into NLP using deep learning
+## Hi, I'm Himanshu
 
-### 📊 Most Used Language
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu-45naik&theme=dark)
+I build backend services and LLM agents, mostly in Python. I'm a final-year AI & Data Science student at Savitribai Phule Pune University, based in Pune, India.
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-<!---
-himanshu-45naik/himanshu-45naik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+From Feb to Oct 2026 I worked at Upswing, a Pune startup that makes AI booking assistants for hotels, first as an intern and then part-time as a backend developer. That code is private, so here's what the work involved:
+
+- Built a staff agent on an MCP server, then rebuilt it as a read-only RAG agent that cites the source document, with role-based access so staff-only files never reach guests
+- Led two hotel PMS integrations (StayNtouch and Hop) and took StayNtouch through the vendor's pre-certification
+- Made hotel availability checks ~178× faster and cut a webhook credential lookup from ~11 s to 4 ms
+- Shipped a versioned prompt service that hot-reloads prompts over RabbitMQ, so prompt changes no longer need a redeploy
+
+### Projects you can try
+
+| Project | What it is |
+|---|---|
+| [Network Intrusion Detection](https://github.com/himanshu-45naik/Network-intrusion-detection) | XGBoost model trained on CICIDS2017, served with FastAPI, Prometheus metrics and drift detection. [Live demo](https://nids-api-bibt.onrender.com) (free tier, so the first load takes about a minute) |
+| [Parchi](https://github.com/himanshu-45naik/parchi) | A small macOS app for notes, to-do lists and photos that stay on your desktop. Swift, no account. [Download](https://github.com/himanshu-45naik/parchi/releases/latest/download/Parchi.dmg) |
+| Shared Object | Co-built at an AI Tinkerers hackathon: an agent that flags when two Slack threads decide opposite things. [Demo video](https://www.loom.com/share/9637251a74ee402a849cc18f5008072b) |
+| [AI Feedback System](https://github.com/himanshu-45naik/ai-feedback-system) | Users leave a review and get an AI reply; admins see each review with an AI summary and suggested actions. FastAPI, PostgreSQL, Gemini |
+| [Code Vision](https://github.com/himanshu-45naik/ISA-Techfest-2026) | A tech-fest game where players prompt an LLM to write Manim code that recreates a reference animation |
+| [Waste Watch Campus](https://github.com/himanshu-45naik/Waste-Watch-Campus) | Campus waste reporting where Gemini classifies the waste type and severity from photos. Flask |
+
+### What I work with
+
+**Languages:** Python, TypeScript, SQL<br>
+**LLMs and agents:** LangGraph, LangChain, LangSmith, MCP, RAG, Qdrant<br>
+**Backend:** FastAPI, gRPC, RabbitMQ, Airflow<br>
+**Data:** PostgreSQL, MongoDB, Redis<br>
+**ML:** scikit-learn, XGBoost, MLflow, ZenML, Docker
+
+### Get in touch
+
+I'm looking for backend or AI engineering internships and entry-level roles, and I take on small freelance projects.
+
+[himanshunaik.dev](https://www.himanshunaik.dev) · [LinkedIn](https://www.linkedin.com/in/himanshu-45naik)
